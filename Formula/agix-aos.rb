@@ -13,7 +13,7 @@ class AgixAos < Formula
   homepage "https://github.com/blewis-maker/homebrew-agix"
   url "https://github.com/blewis-maker/homebrew-agix/releases/download/v0.2.0/agix-aos-0.2.0.tar.gz"
   version "0.2.0"
-  sha256 "a6af1226926d5971b1f81e60578c547588a303266a415bdb132a04afd5f1a03b"
+  sha256 "8279655aa75f6f0d515806cb2dc51bdee0704f7b65ccbea4107e4675f913c894"
   license "Apache-2.0"
 
   depends_on "node"
