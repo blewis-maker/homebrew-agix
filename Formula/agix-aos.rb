@@ -11,9 +11,9 @@
 class AgixAos < Formula
   desc "Agix AOS — the agix CLI and agent fleet (agentic operating system)"
   homepage "https://github.com/blewis-maker/agix-aos-cli"
-  url "https://github.com/blewis-maker/homebrew-agix/releases/download/v0.2.1/agix-aos-0.2.1.tar.gz"
-  version "0.2.1"
-  sha256 "e751c571c716ab9e40813ba06f1b5269ed15d03ce5bed52faae3079c64483b07"
+  url "https://github.com/blewis-maker/homebrew-agix/releases/download/v0.2.2/agix-aos-0.2.2.tar.gz"
+  version "0.2.2"
+  sha256 "8c7d243e3644da2ec9979938dafee087560e60be31a45a3e282cc363234b670d"
   license "Apache-2.0"
 
   depends_on "node"
